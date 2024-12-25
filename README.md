@@ -46,8 +46,9 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/yagiz-bo
 
 ## My Skills
 
-![C# Logo] (https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg)
-![Node.js Logo] (https://delta-dev-software.fr/wp-content/uploads/2024/02/nodejs.jpg)
+![C# Logo](https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg)
+![Node.js Logo](https://delta-dev-software.fr/wp-content/uploads/2024/02/nodejs.jpg)
+
 ---
 
 I am always focused on creating innovative and efficient solutions in the projects I develop. If you'd like to collaborate or learn more, don't hesitate to reach out! 🚀
