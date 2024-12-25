@@ -46,7 +46,7 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/yagiz-bo
 
 ## My Skills
 
-![C# Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png)  ![Node.js Logo](https://cdn-icons-png.flaticon.com/512/919/919825.png)
+![C# Logo](https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg)  ![Node.js Logo](https://cdn-icons-png.flaticon.com/512/919/919825.png)
 
 ---
 
