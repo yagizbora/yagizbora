@@ -46,8 +46,7 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/yagiz-bo
 
 ## My Skills
 
-![C# Logo](https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg)
-![Node.js Logo](https://delta-dev-software.fr/wp-content/uploads/2024/02/nodejs.jpg)
+![C# Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png)  ![Node.js Logo](https://cdn-icons-png.flaticon.com/512/919/919825.png)
 
 ---
 
