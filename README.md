@@ -37,12 +37,17 @@ I have experience with various technologies in software development, but my prim
 
 ## My Projects
 
-You can check out my [projects](https://github.com/YagizBoraYamali?tab=repositories), which include open-source contributions and personal projects. These projects showcase how I apply different backend technologies and software development processes.
+You can check out my [projects](https:/github.com/yagizbora?tab=repositories), which include open-source contributions and personal projects. These projects showcase how I apply different backend technologies and software development processes.
 
 ## Contact Me
 
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/yagiz-bora-yamali/) or use the issues section on my GitHub profile if you have any questions about my projects.
 
+
+## My Skills
+
+![C# Logo] (https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg)
+![Node.js Logo] (https://delta-dev-software.fr/wp-content/uploads/2024/02/nodejs.jpg)
 ---
 
 I am always focused on creating innovative and efficient solutions in the projects I develop. If you'd like to collaborate or learn more, don't hesitate to reach out! 🚀
