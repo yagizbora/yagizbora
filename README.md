@@ -10,11 +10,9 @@ I have experience with various technologies in software development, but my prim
 
 - **Backend Development**: C#, Node.js
 - **Databases**: SQL (MSSQL, PostgreSQL, MySQL)
-- **API Development**: RESTful API, GraphQL
+- **API Development**: RESTful API
 - **Web Technologies**: Vue.js (Frontend Knowledge)
-- **Cloud & DevOps**: Docker, AWS, Azure
 - **Version Control**: Git, GitHub
-- **Project Management**: Agile, Scrum
 
 ## My Experience
 
@@ -42,12 +40,6 @@ You can check out my [projects](https:/github.com/yagizbora?tab=repositories), w
 ## Contact Me
 
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/yagiz-bora-yamali/) or use the issues section on my GitHub profile if you have any questions about my projects.
-
-
-## My Skills
-
-![C# Logo](https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg)  ![Node.js Logo](https://cdn-icons-png.flaticon.com/512/919/919825.png)
-
 ---
 
 I am always focused on creating innovative and efficient solutions in the projects I develop. If you'd like to collaborate or learn more, don't hesitate to reach out! 🚀
