@@ -39,7 +39,7 @@ You can check out my projects, which include open-source contributions and perso
 
 ## Contact Me
 
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/yagiz-bora-yamali/) or use the issues section on my GitHub profile if you have any questions about my projects.
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/-yagiz-bora-yamali-/) or use the issues section on my GitHub profile if you have any questions about my projects.
 ---
 
 I am always focused on creating innovative and efficient solutions in the projects I develop. If you'd like to collaborate or learn more, don't hesitate to reach out! 🚀
