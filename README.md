@@ -35,7 +35,7 @@ I have experience with various technologies in software development, but my prim
 
 ## My Projects
 
-You can check out my [projects](/yagizbora?tab=repositories), which include open-source contributions and personal projects. These projects showcase how I apply different backend technologies and software development processes.
+You can check out my [projects](tab=repositories), which include open-source contributions and personal projects. These projects showcase how I apply different backend technologies and software development processes.
 
 ## Contact Me
 
