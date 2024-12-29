@@ -4,13 +4,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [YourCurrentProject](https://github.com/yourcurrentproject)
-- 🌱 I’m currently learning [YourLearningTopic]
-- 👯 I’m looking to collaborate on [YourCollaborationInterest]
-- 🤔 I’m looking for help with [YourHelpRequest]
-- 💬 Ask me about [YourExpertise]
-- 📫 How to reach me: [YourEmail@example.com]
-- ⚡ Fun fact: [YourFunFact]
+- 🌱 I’m currently learning C#,Node.js,PostegroSQL
+- 📫 How to reach me: [yaizbora@gmail.coö]
 
 ## 🛠️ Languages and Tools
 
