@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently learning C#,Node.js,PostegroSQL
-- 📫 How to reach me: [yaizbora@gmail.coö]
+- 📫 How to reach me: [yaizbora@gmail.com]
 
 ## 🛠️ Languages and Tools
 
