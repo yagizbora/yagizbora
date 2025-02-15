@@ -17,6 +17,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
 
 ## 📈 GitHub Stats
 
