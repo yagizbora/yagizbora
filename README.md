@@ -9,6 +9,8 @@
 
 ## 🛠️ Languages and Tools
 
+## 🛠️ Languages and Tools
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
@@ -19,6 +21,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
+![Material-UI](https://img.shields.io/badge/-Material_UI-000?&logo=mui)
 
 ## 📈 GitHub Stats
 
