@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning C#, Node.js, PostgreSQL
 - 📫 How to reach me: [yaizbora@gmail.com](mailto:yaizbora@gmail.com)
 
-## 🛠️ Languages and Tools
 
 ## 🛠️ Languages and Tools
 
