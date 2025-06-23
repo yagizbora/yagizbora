@@ -23,7 +23,6 @@ Currently, I’m expanding my skills in **C#**, **Node.js**, and **PostgreSQL**.
 <p>
   <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
   <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-000?&logo=typescript" />
   <img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5" />
   <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3" />
   <img src="https://img.shields.io/badge/-React-000?&logo=React" />
@@ -32,12 +31,10 @@ Currently, I’m expanding my skills in **C#**, **Node.js**, and **PostgreSQL**.
   <img src="https://img.shields.io/badge/-C%23-000?&logo=c-sharp" />
   <img src="https://img.shields.io/badge/-.NET-000?&logo=dotnet" />
   <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Git-000?&logo=Git" />
   <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" />
   <img src="https://img.shields.io/badge/-Material_UI-000?&logo=mui" />
   <img src="https://img.shields.io/badge/-Figma-000?&logo=figma" />
-  <img src="https://img.shields.io/badge/-Linux-000?&logo=linux" />
   <img src="https://img.shields.io/badge/-VS_Code-000?&logo=visualstudiocode" />
 </p>
 
