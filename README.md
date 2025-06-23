@@ -46,6 +46,5 @@ Currently, I’m expanding my skills in **C#**, **Node.js**, and **PostgreSQL**.
 - Building scalable APIs with **Node.js** (Express, Fastify)
 - **PostgreSQL** advanced queries & optimization
 - Deployment with **Docker** and **CI/CD** pipelines
-- **Cloud platforms** (Azure, AWS)
 
 ---
