@@ -66,7 +66,7 @@ Currently, I’m expanding my skills in **C#**, **Node.js**, and **PostgreSQL**.
 
 ## 📝 Code Language Usage
 
-<div flex="auto">  
+<div flex="wrap">  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagizbora&theme=radical" alt="GitHub Most Used Languages Repo Card" />
 </p>
