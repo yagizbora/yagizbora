@@ -40,6 +40,30 @@ Currently, I’m expanding my skills in **C#**, **Node.js**, and **PostgreSQL**.
 
 ---
 
+## 📈 GitHub Stats & Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yagizbora&show_icons=true&theme=radical" alt="Yagiz Bora's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagizbora&theme=radical" alt="Yagiz Bora's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yagizbora&theme=radical" alt="Yagiz Bora's Activity Graph" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizbora&layout=compact&theme=radical&hide=css,html" alt="Yagiz Bora's Top Languages" />
+</p>
+
+---
+
 ## 📚 Currently Learning
 
 - Advanced **C#** and **.NET** backend development
