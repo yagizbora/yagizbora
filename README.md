@@ -7,14 +7,14 @@
 ## 🚀 About Me
 
 Hello! I'm **Yagiz Bora**, a passionate developer with a love for learning and building awesome projects.  
-Currently, I’m expanding my skills in **C#**, **Node.js**, and **PostgreSQL**.
+Currently, I’m expanding my skills in **C#**,**ASP.NET**, **Node.js**, and **PostgreSQL**.
 
 - 💻 I enjoy solving real-world problems with code and collaborating with others.
 - 🧑‍💻 I’m enthusiastic about full-stack development, automation, backend systems, and cloud technologies.
 - 🌱 I’m always eager to learn new technologies and best practices.
 - 📫 How to reach me: [yaizbora@gmail.com](mailto:yaizbora@gmail.com)
 - 📍 Based in Turkey
-- 🗣️ Languages: Turkish (Native), English (Fluent)
+- 🗣️ Languages: Turkish (Native), English (Fluent),German (A1), Russian (A2)
 
 ---
 
