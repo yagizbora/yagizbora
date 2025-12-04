@@ -74,6 +74,12 @@ Currently, I’m expanding my skills in **C#**,**ASP.NET**, **Node.js**, and **P
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagizbora&theme=radical" alt="GitHub Most Commit Languages Card" />
     </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yagizbora&theme=default&utcOffset=8" alt="Github Commit Time"  />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagizbora&theme=default" alt="Github Stats" />
+    </td>
   </tr>
 </table>
 
