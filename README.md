@@ -42,9 +42,6 @@ Currently, I’m expanding my skills in **C#**,**ASP.NET**, **Node.js**, and **P
 
 ## 📈 GitHub Stats & Coding Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagizbora&show_icons=true&theme=radical" alt="Yagiz Bora's GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagizbora&theme=radical" alt="Yagiz Bora's GitHub Streak" />
