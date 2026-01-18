@@ -56,11 +56,6 @@ Currently, I’m expanding my skills in **C#**,**ASP.NET**, **Node.js**, and **P
 
 ---
 
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizbora&layout=compact&theme=radical&hide=css,html" alt="Yagiz Bora's Top Languages" />
-</p>
 
 ---
 
