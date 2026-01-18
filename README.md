@@ -1,95 +1,52 @@
 # Hi there, I'm Yagiz Bora! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yagizbora&color=blue)
-
----
+Welcome to my GitHub profile! I'm thrilled to have you here. Let me take a moment to introduce myself.
 
 ## 🚀 About Me
+🌟 **Who am I:**  
+I am a passionate **Back-End Developer** from **Bursa, Türkiye** with expertise in building robust backend systems and architecting scalable solutions. Whether it's developing efficient APIs, optimizing databases, or diving into front-end technologies, I'm always excited to take on new challenges and solve complex problems.
 
-Hello! I'm **Yagiz Bora**, a passionate developer with a love for learning and building awesome projects.  
-Currently, I’m expanding my skills in **C#**,**ASP.NET**, **Node.js**, and **PostgreSQL**.
-
-- 💻 I enjoy solving real-world problems with code and collaborating with others.
-- 🧑‍💻 I’m enthusiastic about full-stack development, automation, backend systems, and cloud technologies.
-- 🌱 I’m always eager to learn new technologies and best practices.
-- 📫 How to reach me: [yaizbora@gmail.com](mailto:yaizbora@gmail.com)
-- 📍 Based in Turkey
-- 🗣️ Languages: Turkish (Native), English (Fluent),German (A1), Russian (A2)
+📡 **Personal mission:**  
+Empowering businesses and individuals with efficient and scalable software solutions.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ My Skills
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5" />
-  <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3" />
-  <img src="https://img.shields.io/badge/-React-000?&logo=React" />
-  <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-Express-000?&logo=express" />
-  <img src="https://img.shields.io/badge/-C%23-000?&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/-.NET-000?&logo=dotnet" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-Git-000?&logo=Git" />
-  <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" />
-  <img src="https://img.shields.io/badge/-Material_UI-000?&logo=mui" />
-  <img src="https://img.shields.io/badge/-Figma-000?&logo=figma" />
-  <img src="https://img.shields.io/badge/-VS_Code-000?&logo=visualstudiocode" />
-</p>
+Here is what I bring to the table:
+
+### **Technical Skills:**
+- **Languages:** C#, JavaScript
+- **Backend Technologies:** MSSQL, PostgreSQL, Node.js
+- **Frontend Frameworks and Libraries:** React.js, Vue.js
 
 ---
 
-## 📈 GitHub Stats & Coding Activity
+## 🖋️ Favorite Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagizbora&show_icons=true&theme=radical" alt="Yagiz Bora's GitHub Stats" />
-</p>
+Here are some of the projects I’m most proud of:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagizbora&theme=radical" alt="Yagiz Bora's GitHub Streak" />
-</p>
+1. **[Kütüphane Yönetim Sistemi](https://github.com/yagizbora/KutuphaneYonetimSistemi)**  
+   A library management system built with React.js. Designed to efficiently organize, track, and manage library operations while ensuring a seamless user experience.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yagizbora&theme=radical" alt="Yagiz Bora's Activity Graph" />
-</p>
+2. **[Employeer Management](https://github.com/yagizbora/Employeer-Management)**  
+   A robust application for managing employee records and workflows with high scalability and flexibility.
 
 ---
 
-## 📊 Most Used Languages
+## 📫 Get In Touch!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizbora&layout=compact&theme=radical&hide=css,html" alt="Yagiz Bora's Top Languages" />
-</p>
-
----
-
-## 📝 Code Language Usage
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagizbora&theme=radical" alt="GitHub Most Used Languages Repo Card" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagizbora&theme=radical" alt="GitHub Most Commit Languages Card" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yagizbora&theme=default&utcOffset=8" alt="Github Commit Time"  />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagizbora&theme=default" alt="Github Stats" />
-    </td>
-  </tr>
-</table>
+I’d be happy to connect with you! Feel free to reach out to me on LinkedIn or check out my repositories:  
+- LinkedIn: [Yagiz Bora Yamali](https://www.linkedin.com/in/-yagiz-bora-yamali-/)
 
 ---
 
-## 📚 Currently Learning
+## 📈 GitHub Stats
 
-- Advanced **C#** and **.NET** backend development
-- Building scalable APIs with **Node.js** (Express, Fastify)
-- **PostgreSQL** advanced queries & optimization
-- Deployment with **Docker** and **CI/CD** pipelines
+![Yagiz Bora's GitHub Activity](https://github-readme-stats.vercel.app/api?username=yagizbora&show_icons=true&hide=issues&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizbora&hide=html&layout=compact)
 
 ---
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+Thanks for stopping by! Happy Coding! 💻✨
