@@ -63,7 +63,7 @@ Currently, I’m expanding my skills in **C#**,**ASP.NET**, **Node.js**, and **P
     <td>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizbora&layout=compact&theme=radical&size_weight=0.7&count_weight=0.3" alt="Top Languages by Code Size" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizbora&layout=compact&theme=radical&hide=html,css&size_weight=0.7&count_weight=0.3" alt="Top Languages by Code Size" />
 </p>  
     </td>
     <td>
