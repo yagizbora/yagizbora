@@ -61,8 +61,6 @@ Currently, I’m expanding my skills in **C#**,**ASP.NET**, **Node.js**, and **P
 <table align="center">
   <tr>
     <td>
-    </td>
-    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagizbora&theme=radical" alt="GitHub Most Commit Languages Card" />
     </td>
     <td>
